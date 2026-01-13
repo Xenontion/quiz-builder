@@ -311,4 +311,4 @@ MIT
 
 ## Author
 
-Quiz Builder - 2026
+Oleh Sasko
